@@ -1,0 +1,30 @@
+{
+  "name": "puge_clock_container",
+  "version": "1.0.0",
+  "description": "时钟",
+  "author": "PUGE <my@owo.help>",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/8600/clock-container.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8600/clock-container/issues"
+  },
+  "homepage": "https://github.com/8600/clock-container",
+  "keywords": [
+    "vue",
+    "clock",
+    "clock-container"
+  ],
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 9"
+  ]
+}
